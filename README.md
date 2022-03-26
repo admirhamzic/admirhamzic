@@ -1,5 +1,5 @@
 ### Admir's profile
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;Welcome+to+my+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FD5E53&background=00FF4400&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+Admir's+profile!)](https://git.io/typing-svg)
 
 <!--
 **admirhamzic/admirhamzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
