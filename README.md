@@ -1,5 +1,5 @@
 ### admirhamzic
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FD5E53&background=00FF4400&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+Admir's+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=FD5E53&background=00FF4400&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+Admir's+profile!)](https://git.io/typing-svg)
 
 ### skills
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FDE400&background=00FF4400&lines=HTML;CSS;JavaScript;TypeScript;Java;React;SQL;MongoDB;JQuery;REST+API;GraphQL;Agile;JIRA;Spring)](https://git.io/typing-svg)
