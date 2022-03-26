@@ -1,4 +1,4 @@
-## Admir's profile
+### Admir's profile
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;Welcome+to+my+page!)](https://git.io/typing-svg)
 
 <!--
