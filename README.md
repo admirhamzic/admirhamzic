@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=55AAFF&background=00FF4400&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### Skills
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FDE400&background=00FF4400&lines=HTML;CSS;JavaScript;TypeScript;Java;React;SQL;MongoDB;JQuery;REST+API;GraphQL;Agile;JIRA;Spring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FFF01E&background=00FF4400&multiline=true&width=555&height=115&lines=HTML+CSS+JavaScript+TypeScript+Java;React+SQL+MongoDB+JQuery+Spring;REST+API+GraphQL+JIRA+Agile)](https://git.io/typing-svg)
 
 <!--
 **admirhamzic/admirhamzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
