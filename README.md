@@ -25,7 +25,7 @@
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FFF01E&background=00FF4400&center=true&multiline=true&width=630&height=115&lines=HTML+CSS+JavaScript+TypeScript+Java;React+SQL+MongoDB+JQuery+Spring;REST+API+GraphQL+JIRA+Agile"
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=FFF01E&background=00FF4400&center=true&multiline=true&width=630&height=115&lines=HTML+CSS+JavaScript+TypeScript+Java;React+SQL+MongoDB+JQuery+Spring;REST+API+GraphQL+JIRA+Agile"
 </p>
   
 <!--
